@@ -259,7 +259,7 @@ a.signup{
 
 .image4{
     display: flex;
-    background-image: url(responsivewebsite/water.jpg);
+    background-image: url(water.jpg);
     height: 350px;
     width: 740px;
     background-size: cover;
